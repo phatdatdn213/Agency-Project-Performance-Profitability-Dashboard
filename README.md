@@ -26,14 +26,14 @@ A high-level Business Intelligence solution built in **Looker Studio** to manage
 The dashboard isn't just a display—it's a management tool. By identifying the "Green Zone" projects, the agency can replicate successful staffing models across underperforming accounts.
 
 ## 📁 Project Structure
-```Agency Project Performance & Profitability Dashboard
+```text
 ├── data/
 │   └── sample_data.csv    
 ├── images/
 │   ├── overview.png       
 │   └── efficiency.png     
 └── README.md              
-
+```
 ---
 **Developed by:** Dat Do  
-**Connect with me:** (https://www.linkedin.com/in/datdonguyenphat/)
+**Connect with me:** https://www.linkedin.com/in/datdonguyenphat/
